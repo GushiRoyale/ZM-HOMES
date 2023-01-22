@@ -1,0 +1,66 @@
+*{
+ margin: 0;
+ box-sizing: border-box;
+}
+.house{
+ background-color: #F4F6FE;
+}
+
+.bot{
+ width: 100%;
+ background-color: #F4F6FE;
+ margin-top: 0;
+ padding: 10px;
+ box-shadow: inset;
+}
+
+.bot a{
+ text-decoration: none;
+ color: black;
+ font-weight: 600;
+ font-size: 1rem;
+ margin-right: 4.5rem;
+
+
+}
+
+.mybtn{
+ font-size: 13px;
+ padding: 5px 18px;
+}
+
+
+.drop-btn{
+ width: 10rem;
+}
+
+.loc-btn{
+ width: 12rem;
+}
+
+
+.options{
+display: flex;
+width: 55%;
+justify-content: space-between;
+margin-left: 15px;
+margin-top: 40px;
+
+}
+
+.options a{
+ text-decoration: none;
+}
+
+
+
+.description{
+ display: flex;
+ justify-content: space-between;
+ line-height: 5px;
+ margin-bottom: 0rem;
+}
+
+.description p{
+ font-size: 0.85rem;
+}
