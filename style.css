@@ -6,10 +6,21 @@
  background-color: #F4F6FE;
 }
 
+
+
+.lin a{
+ text-decoration: none;
+ color: black;
+ font-weight: 500;
+ 
+}
+
+
 .bot{
  width: 100%;
  background-color: #F4F6FE;
  margin-top: 0;
+ margin-bottom: 0;
  padding: 10px;
  box-shadow: inset;
 }
@@ -50,6 +61,11 @@ margin-top: 40px;
 
 .options a{
  text-decoration: none;
+}
+
+.line{
+ width: 50px;
+ background-color: aqua;
 }
 
 
