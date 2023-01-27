@@ -6,6 +6,7 @@
  background-color: #F4F6FE;
 }
 
+
 .hero{
  display: flex;
  justify-content: space-between;
@@ -65,6 +66,10 @@
 
 }
 
+.card p{
+ font-size: 0.75rem;
+}
+
 .mybtn{
  font-size: 13px;
  padding: 5px 18px;
@@ -106,9 +111,27 @@ margin-top: 40px;
  line-height: 5px;
  margin-bottom: 0rem;
 }
+.description p {
+ font-size: 0.75rem;
+}
 
-.description p{
- font-size: 0.85rem;
+.description2{
+ display: flex;
+ justify-content: space-around;
+ width: 130px;
+ margin-top: 0;
+}
+
+.description2 h6{
+ font-size: 0.75rem;
+}
+
+
+
+.bath{
+ width: 12px;
+ margin-right: 5px;
+ margin-top: 0;
 }
 
 .map-responsive {
