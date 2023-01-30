@@ -10,14 +10,24 @@
  display: flex;
  justify-content: space-between;
 }
-
+.lin{
+ margin-bottom: 17rem;
+}
 .lin a{
   display: block;
- margin-bottom: 30px;
+ margin-bottom: 20px;
  text-decoration: none;
  color: black;
  font-weight: 500;
  
+}
+
+.lin a:hover{
+ color: blue;
+}
+
+.lin img{
+ margin-right: 15px;
 }
 
 .button-container {
@@ -99,9 +109,9 @@ margin-top: 40px;
  text-decoration: none;
 }
 
-.line{
+.prof{
  width: 50px;
- background-color: aqua;
+ height: 40px;
 }
 
 
