@@ -5,6 +5,15 @@
 .house{
  background-color: #F4F6FE;
 }
+.log{
+ display: flex;
+}
+.logimg{
+ height: 30px;
+ margin-top: 10px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
 
 .hero{
  display: flex;
@@ -111,7 +120,7 @@ margin-top: 40px;
 
 .prof{
  width: 50px;
- height: 40px;
+ height: 50px;
 }
 
 
@@ -137,7 +146,28 @@ margin-top: 40px;
  font-size: 0.75rem;
 }
 
+.profile{
+ position: relative;
+ margin-bottom: 90px;
+}
 
+.image{
+ width: 20px;
+ position: absolute;
+ left: 200px;
+ top: 17px;
+}
+
+.prof{
+ position: absolute;
+ left: 235px;
+}
+
+.plus{
+ position: absolute;
+ left: 265px;
+ top: 35px;
+}
 
 .bath{
  width: 12px;
